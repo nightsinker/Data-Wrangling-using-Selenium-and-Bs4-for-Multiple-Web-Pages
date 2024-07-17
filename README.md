@@ -7,7 +7,7 @@ This repository contains code and examples for performing data wrangling using S
 
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/Data-Wrangling-using-Selenium-and-Bs4-for-Multiple-Web-Pages.git
+git clone https://github.com/nightsinker/Data-Wrangling-using-Selenium-and-Bs4-for-Multiple-Web-Pages.git
 
 
 cd Data-Wrangling-using-Selenium-and-Bs4-for-Multiple-Web-Pages
